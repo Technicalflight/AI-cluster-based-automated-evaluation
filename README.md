@@ -202,4 +202,4 @@ Content-Type: application/json
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Technicalflight/AI-cluster-based-automated-evaluation&type=Date)](https://star-history.com/#Technicalflight/AI-cluster-based-automated-evaluation&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Technicalflight/AI-cluster-based-automated-evaluation&type=Timeline)](https://star-history.com/#Technicalflight/AI-cluster-based-automated-evaluation&Timeline)
