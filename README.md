@@ -212,6 +212,6 @@ Content-Type: application/json
 如果觉得项目对你有帮助，可以给项目点个Star，这将是对我最大的鼓励和支持！
 
 <div align="center">
-  <img src="./docs/images/alipay.jpg" alt="支付宝二维码" width="30%">
-  <img src="./docs/images/wechat.jpg" alt="微信二维码" width="30%">
+  <img src="alipay.jpg" alt="支付宝二维码" width="30%">
+  <img src="wechat.jpg" alt="微信二维码" width="30%">
 </div>
