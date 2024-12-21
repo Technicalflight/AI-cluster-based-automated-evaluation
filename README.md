@@ -210,6 +210,51 @@ Content-Type: application/json
 
 作者个人能力和项目经验都还有许多不足，如果在使用过程遇到的Bug，欢迎提交 Issue 和 Pull Request 帮助改进项目。
 
+## 免责声明
+
+1. 开源许可
+   - 本项目采用 BSD-3-Clause license 许可证开源
+   - 您可以自由使用、修改和分发本项目
+   - 请在使用时保留原作者版权信息
+
+2. 使用责任
+   - 本项目仅供学习和研究使用
+   - 使用本项目所产生的任何后果由使用者自行承担
+   - 作者不对使用本项目造成的任何损失负责
+
+3. API 使用
+   - 本项目使用 OpenAI API，您需要自行承担 API 使用费用
+   - 请遵守 OpenAI 的使用条款和政策
+   - 作者不对 API 的可用性和稳定性做任何保证
+
+4. 数据安全
+   - 请勿在本项目中使用敏感或机密数据
+   - 用户需自行确保数据的安全性和合规性
+   - 作者不对数据泄露或丢失承担责任
+
+5. 商业使用
+   - 如需商业使用，请确保符合相关法律法规
+   - 商业使用所产生的风险由使用者自行承担
+   - 建议在商业使用前寻求法律意见
+
+6. 版权声明
+   - 本项目的界面设计和代码实现版权归作者所有
+   - 使用到的第三方库和框架的版权归其各自的所有者所有
+
+7. 更新和维护
+   - 作者不保证定期更新和维护本项目
+   - 不保证本项目在所有环境下都能正常运行
+   - 使用者可以根据需要自行修改和维护代码
+
+8. 隐私政策
+   - 本项目不会收集用户的个人信息
+   - 所有的评测数据都存储在本地
+   - API 密钥等敏感信息由用户自行管理
+
+Copyright (c) 2024 [Technicalflight]
+
+特此声明，任何个人或组织在使用本项目时均视为已经仔细阅读并同意本免责声明的所有条款。
+
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Technicalflight/AI-cluster-based-automated-evaluation&type=Timeline)](https://star-history.com/#Technicalflight/AI-cluster-based-automated-evaluation&Timeline)
