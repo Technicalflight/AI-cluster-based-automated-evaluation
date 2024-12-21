@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="logo.png"alt="AI 集群自动化评测系统 Logo" width="100">
+  <p>AI 集群自动化评测系统</p>
+  <h1>ai_cluster_evaluator</h1>
+  <p>一款用于AI训练无监督评测工具-AI集群式自动化评测</p>  
+</div>
+
 # 🤖 AI 集群自动化评测系统
 
 一个基于 PySide6 和 OpenAI API 的多模型集群自监督模型数据评测软件。
