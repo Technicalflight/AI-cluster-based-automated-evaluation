@@ -1,8 +1,8 @@
-# AI 集群自动化评测系统
+# 🤖 AI 集群自动化评测系统
 
 一个基于 PySide6 和 OpenAI API 的多模型集群自监督模型数据评测软件。
 
-## 功能特点
+## 😊 功能特点
 
 1. 现代化界面
    - 深色主题设计
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 - json5>=0.9.14
 - typing-extensions>=4.7.1
 
-## 使用说明
+## 📝 使用说明
 
 ### 基本使用
 
@@ -64,7 +64,7 @@ python ai_cluster_evaluator.py
    - 点击"质量检查"（对评测结果进行分析）
    - 保存结果
 
-### API 服务使用
+### 🎉 API 服务使用
 
 1. 启动 API 服务
    - 点击界面右上角的🌐按钮
@@ -73,7 +73,7 @@ python ai_cluster_evaluator.py
 
 2. API 端点说明
 
-#### 生成答案
+#### 🤗 生成答案
 ```http
 POST /generate
 Content-Type: application/json
@@ -87,7 +87,7 @@ Content-Type: application/json
 }
 ```
 
-#### 评测答案
+#### 😜 评测答案
 ```http
 POST /evaluate
 Content-Type: application/json
@@ -101,7 +101,7 @@ Content-Type: application/json
 }
 ```
 
-#### 质量检查
+#### 😎 质量检查
 ```http
 POST /quality-check
 Content-Type: application/json
@@ -123,7 +123,7 @@ Content-Type: application/json
 }
 ```
 
-### 数据格式
+### 🧐 数据格式
 
 1. 问题集格式
 ```json
@@ -159,7 +159,7 @@ Content-Type: application/json
 }
 ```
 
-## 特性说明
+## 📝 特性说明
 
 1. 评分标准（0-5分）
    - 5分：完美的答案，准确、完整、清晰
@@ -198,8 +198,20 @@ Content-Type: application/json
    - 适当调整系统提示词
    - 根据需要调整评分标准
    - 定期导出配置备份
+  
+## 🤝 贡献指南
 
+作者个人能力和项目经验都还有许多不足，如果在使用过程遇到的Bug，欢迎提交 Issue 和 Pull Request 帮助改进项目。
 
-## Star History
+## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Technicalflight/AI-cluster-based-automated-evaluation&type=Timeline)](https://star-history.com/#Technicalflight/AI-cluster-based-automated-evaluation&Timeline)
+
+## 💖 支持作者
+
+如果觉得项目对你有帮助，可以给项目点个Star，这将是对我最大的鼓励和支持！
+
+<div align="center">
+  <img src="./docs/images/alipay.jpg" alt="支付宝二维码" width="30%">
+  <img src="./docs/images/wechat.jpg" alt="微信二维码" width="30%">
+</div>
