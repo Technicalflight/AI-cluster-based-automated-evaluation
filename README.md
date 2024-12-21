@@ -198,3 +198,8 @@ Content-Type: application/json
    - 适当调整系统提示词
    - 根据需要调整评分标准
    - 定期导出配置备份
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Technicalflight/AI-cluster-based-automated-evaluation&type=Date)](https://star-history.com/#Technicalflight/AI-cluster-based-automated-evaluation&Date)
