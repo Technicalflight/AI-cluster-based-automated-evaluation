@@ -59,4 +59,4 @@ jobs:
         name: Release ${{ github.ref_name }}
         draft: false
         prerelease: false
-        token: ${{ secrets.GITHUB_TOKEN }} 
+        token: ${{ secrets.RELEASE_TOKEN }} 
